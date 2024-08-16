@@ -9,4 +9,3 @@ We leanrt how to work with pandas library to revise data, and manipulate it, in 
 - Group columns and aggreations (sum, mean, median, count, ...)
 - The us of unique(), nunique(), describe(), head(), isin(), apply(), value_counts()
 - Reset the index of a Data frames or convert a regular column to an index
-- 
